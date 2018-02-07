@@ -1,0 +1,15 @@
+.teste{
+    background-color:rgba(210,105,30,0.9);
+}
+.nav-collapse{
+    background-color: #FFF;
+}
+li.menu-item{
+    background-color: #FFF;
+}
+.menu-item active{
+
+}
+body{
+	color: rgb(48, 46, 46);
+}
